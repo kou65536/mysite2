@@ -33,6 +33,7 @@ docutils==0.19
 entrypoints==0.4
 fastjsonschema==2.16.1
 flake8==4.0.1
+gunicorn==20.1.0
 idna==3.3
 imagesize==1.4.1
 importlib-metadata==4.11.4
@@ -101,6 +102,7 @@ python-lsp-server==1.5.0
 python-slugify==6.1.2
 pytoolconfig==1.2.2
 pytz==2022.2.1
+pywin32==303
 pywin32-ctypes==0.2.0
 PyYAML==6.0
 pyzmq==23.2.1
